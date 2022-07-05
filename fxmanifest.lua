@@ -3,5 +3,5 @@ game 'gta5'
 
 --[[
 Made by: Lil#9587 (Lil)
-Discord: https://discord.gg/CjCjKQdyz6
+Discord: https://discord.gg/MYcXRTsPjm
 ]]
